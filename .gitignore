@@ -1,6 +1,7 @@
 .env
 .chroma
 .DS_Store
+.venv
 venv
 XX_*
 
